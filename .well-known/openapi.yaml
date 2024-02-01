@@ -2,9 +2,9 @@ openapi: 3.0.0
 info:
   title: Retrieval Plugin API
   version: 1.0.0
-  description: This API lets you search through the Lex Fridman podcasts.
+  description: This API lets you search through the Bryce Krawczyk form check friday videos.
 servers:
-  - url: https://ask-lex-ti7zy.ondigitalocean.app
+  - url: https://coral-app-9fjcc.ondigitalocean.app/
 paths:
   /query:
     post:

@@ -2,7 +2,7 @@
   "schema_version": "v1",
   "name_for_model": "ask_bryce",
   "name_for_human": "Ask Bryce",
-  "description_for_model": "Use this tool to answer user questions using Bryce Krawczyk form check videos. If the user states 'ask Bryce' use this tool to get the answer. This tool can also be used for follow up questions from the user and filters can be used to grab more information from specific videos (like by filtering for a specific video title).",
+  "description_for_model": "Use this tool to answer user questions using Bryce Krawczyk form check friday videos. If the user states 'ask Bryce' use this tool to get the answer. This tool can also be used for follow up questions from the user and filters can be used to grab more information from specific videos (like by filtering for a specific video title).",
   "description_for_human": "Collective wisdom from Bryce Krawczyk.",
   "auth": {
     "type": "user_http",
@@ -10,10 +10,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://ask-lex-ti7zy.ondigitalocean.app/.well-known/openapi.yaml",
+    "url": "https://coral-app-9fjcc.ondigitalocean.app/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "",
-  "contact_email": "james@pinecone.io", 
+  "contact_email": "biancaniellomichael@gmail.com", 
   "legal_info_url": "lior@pinecone.io"
 }
